@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Generated files
+results/
+
+# Local settings
+settings_local.py
+
+# Temp files
+temp/
+.temp/
+.v.*/
+.v.*
+
+# Log files
+logs/
+*.log
